@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: cursive;
+  font-weight: 700;
+  color: blueviolet;
+  text-shadow: 3px 0 #390147;
+}
+
+.all {
+  margin: 10% auto;
+}
+
+.w {
+  background-image: url("images/W-Instrument.png");
+}
+.a {
+  background-image: url("images/A-Instrument.png");
+}
+.s {
+  background-image: url("images/S-Instrument.png");
+}
+.d {
+  background-image: url("images/D-Instrument.png");
+}
+.j {
+  background-image: url("images/J-Instrument.png");
+}
+.k {
+  background-image: url("images/K-Instrument.png");
+}
+.l {
+  background-image: url("images/L-Instrument.png");
+}
+.animation {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.button {
+  outline: none;
+  border: 10px solid #041542;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: blueviolet;
+  text-shadow: 3px 0 #2b0133;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
